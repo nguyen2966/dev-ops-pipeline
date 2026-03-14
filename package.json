@@ -1,0 +1,21 @@
+{
+  "name": "dev-ops-pipeline",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "run" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nguyen2966/dev-ops-pipeline.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nguyen2966/dev-ops-pipeline/issues"
+  },
+  "homepage": "https://github.com/nguyen2966/dev-ops-pipeline#readme",
+  "description": ""
+}
